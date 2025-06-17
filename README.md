@@ -1,12 +1,12 @@
 <h1 align="center">
   <br>
-  <a href="http://www.lekev.in"><img src="snorlax.png" width="200"></a>
+  <a href="http://v1.lekevin.com"><img src="snorlax.png" width="200"></a>
   <br>
   lekev.in
   <br>
 </h1>
 
-<h4 align="center">Click to view a website I built ⇨ <a href="http://lekev.in" target="_blank">lekev.in</a></h4>
+<h4 align="center">Click to view a website I built ⇨ <a href="https://v1.lekevin.com" target="_blank">lekev.in</a></h4>
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/lekevin742N"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee"></a>
