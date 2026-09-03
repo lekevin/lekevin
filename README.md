@@ -35,7 +35,7 @@
 
 ## I love coffee
 
-<a href="https://www.buymeacoffee.com/lekevin742N" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" style="height: 30px !important;width: 150px" ></a>
+<a href="https://www.buymeacoffee.com/lekevin742N" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="50" width="178"></a>
 
 ## Bio
 
