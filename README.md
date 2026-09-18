@@ -29,7 +29,7 @@
 </p>
 
 <h1 align="center">
-<a href="http://www.lekevin.com"><img src="website.png" align="center" width="700"></a>
+<a href="http://lekevin.com"><img src="website.png" align="center" width="700"></a>
 </h1>
 
 ## I love coffee
