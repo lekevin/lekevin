@@ -32,7 +32,3 @@
 <a href="http://lekevin.com"><img src="website.png" align="center" width="700"></a>
 </h1>
 
-## I love coffee
-
-<a href="https://www.buymeacoffee.com/lekevin742N" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="50" width="178"></a>
-
