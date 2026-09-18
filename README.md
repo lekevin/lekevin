@@ -2,11 +2,11 @@
   <br>
   <a href="http://v1.lekevin.com"><img src="snorlax.png" width="200"></a>
   <br>
-  lekev.in
+  Suup
   <br>
 </h1>
 
-<h4 align="center">Click to view a website I built ⇨ <a href="https://lekevin.com" target="_blank">lekevin.com</a></h4>
+<h4 align="center"><a href="https://lekevin.com" target="_blank">lekevin.com</a></h4>
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/lekevin742N"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee"></a>
@@ -26,7 +26,6 @@
                 <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" align="center"/>
                 <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center"/>
                 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" align="center"/>
-
 </p>
 
 <h1 align="center">
@@ -37,7 +36,3 @@
 
 <a href="https://www.buymeacoffee.com/lekevin742N" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="50" width="178"></a>
 
-## Bio
-
-<p>Welcome to my Github! I graduated Fall 2022 at Wichita State University with a degree in Computer Science and a minor in mathematics. Some of my hobbies
-include games (Valorant mainly!!), traveling, tennis, fishing, golfing, and creating stuff! </p>
