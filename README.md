@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://v1.lekevin.com"><img src="snorlax.png" width="200"></a>
+  <a href="http://lekevin.com"><img src="snorlax.png" width="200"></a>
   <br>
   Suup
   <br>
